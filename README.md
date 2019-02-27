@@ -9,6 +9,9 @@ A RadioGroup support dynamic add widget which implements Checkable
 
 ## Usage
 It is easy to setup like a LinearLayout.
+
+![DynamicRadioGroup](https://github.com/olivine13/DynamicRadioGroup/blob/master/demo.gif)
+
 xml:
 ```
 <me.olivine.widget.DynamicRadioGroupLayout
